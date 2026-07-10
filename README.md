@@ -10,22 +10,6 @@ A structured, beginner-to-intermediate SQL series written for aspiring **data an
 
 ---
 
-## 📋 Table of Contents
-
-- [What You Will Learn](#-what-you-will-learn)
-- [The Example Database](#-the-example-database)
-- [Series Contents](#-series-contents)
-- [Prerequisites](#-prerequisites)
-- [Getting Started](#-getting-started)
-- [File Structure](#-file-structure)
-- [Sample Queries](#-sample-queries)
-- [Topics Covered](#-topics-covered)
-- [Who This Is For](#-who-this-is-for)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## What You Will Learn
 
 By working through all nine articles, you will go from "what is a database?" to writing multi-table analytical queries with window functions and CTEs which is one of the skills listed alongside Python and statistics in data analyst job postings.
