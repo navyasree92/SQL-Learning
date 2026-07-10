@@ -1,12 +1,8 @@
 # 🗄️ Databases & SQL for Analysts
-### A 9-Day Series From First Concepts to Advanced Querying
+### A 9-Day Series From First Concepts to Advanced Querying -
 
-![Articles](https://img.shields.io/badge/Articles-9-1557C0?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-F59E0B?style=flat-square&logo=mysql&logoColor=white)
-![SQL Lines](https://img.shields.io/badge/SQL%20Examples-1%2C088%20lines-0A7C4E?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-6B7280?style=flat-square)
 
-A structured, beginner-to-intermediate SQL series written for aspiring **data analysts** and **data scientists**. Every concept is taught through a single, consistent example database, an online store called `online_store` that you build from scratch on Day 3 and query all the way through Day 9. By the end, you can answer real business questions with clean, production-quality SQL.
+A structured, beginner-to-intermediate SQL series for **data analysts** . Every concept is covered through a single, consistent example database, an online store called `online_store` will be build from scratch on Day 3 and query all the way through Day 9. By the end, this practice will helps to answer real business questions with clean, production-quality SQL.
 
 ---
 
@@ -198,4 +194,3 @@ Start with [Day 1](articles/Day1_Understanding_Databases.md). Each article ends 
 
 </details>
 
----
