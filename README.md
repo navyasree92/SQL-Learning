@@ -1,14 +1,14 @@
 # 🗄️ Databases & SQL for Analysts
-### A 9-Day Series From First Concepts to Advanced Querying -
+### A 9-Day Series From First Concepts to Advanced Querying 
 
 
 A structured, beginner-to-intermediate SQL series for **data analysts** . Every concept is covered through a single, consistent example database, an online store called `online_store` will be build from scratch on Day 3 and query all the way through Day 9. By the end, this practice will helps to answer real business questions with clean, production-quality SQL.
 
 ---
 
-## What You Will Learn
+## What Will Learn
 
-By working through all nine articles, you will go from "what is a database?" to writing multi-table analytical queries with window functions and CTEs which is one of the skills listed alongside Python and statistics in data analyst job postings.
+By working through all nine days, you will go from "what is a database?" to writing multi-table analytical queries with window functions and CTEs which is one of the skills listed alongside Python and statistics in data analyst job postings.
 
 | Phase | Days | Focus |
 |-------|------|-------|
@@ -69,14 +69,6 @@ order_items   (order_item_id PK, order_id FK, product_id FK, quantity, unit_pric
 | **7** | DQL III - Joining Tables | Table aliases · `INNER JOIN` · `LEFT JOIN` · `RIGHT JOIN` · multi-table joins · self-join · cross join · FULL OUTER JOIN workaround · `UNION` / `UNION ALL` · ON vs WHERE with LEFT JOIN |
 | **8** | DQL IV - Subqueries, CTEs & CASE | Scalar subqueries · multi-row subqueries (`IN` / `NOT IN`) · correlated subqueries · `EXISTS` · derived tables · `WITH` (CTE) · multiple CTEs · `CASE` (simple & searched) · `COALESCE` · conditional aggregation |
 | **9** | DQL V - Window Functions & Capstone | `ROW_NUMBER` · `RANK` · `DENSE_RANK` · `LAG` / `LEAD` · `SUM OVER` running totals · `MAX OVER` · percentage share · frame clause · `CREATE VIEW` · best practices · 8-question capstone |
-
-Each article is available as both a **Markdown file** (for reading in any editor or GitHub) and a **styled HTML page** (for a polished, syntax-highlighted reading experience with copy buttons).
-
----
-
-###  Read the articles in order
-
-Start with [Day 1](articles/Day1_Understanding_Databases.md). Each article ends with a "Try this before Day N" exercise that reinforces the concepts before you move on.
 
 ---
 ## ✅ Topics Covered
